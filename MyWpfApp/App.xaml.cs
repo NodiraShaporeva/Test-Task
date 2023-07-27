@@ -13,7 +13,7 @@ namespace MyWpfApp
         protected override void OnStartup(StartupEventArgs e)
         {
             base.OnStartup(e);
-            MainWindow mainWindow = new MainWindow(); // Создание экземпляра главного окна
+            MeetingCardWindow mainWindow = new MeetingCardWindow(); // Создание экземпляра главного окна
             mainWindow.Show(); // Отображение главного окна
         }
     }
