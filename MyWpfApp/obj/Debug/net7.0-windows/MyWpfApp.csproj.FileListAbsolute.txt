@@ -1,0 +1,10 @@
+C:\Users\NODIRA\Test-Task\MyWpfApp\obj\Debug\net7.0-windows\MyWpfApp.csproj.AssemblyReference.cache
+C:\Users\NODIRA\Test-Task\MyWpfApp\obj\Debug\net7.0-windows\MeetingCardWindow.baml
+C:\Users\NODIRA\Test-Task\MyWpfApp\obj\Debug\net7.0-windows\MeetingCardWindow.g.cs
+C:\Users\NODIRA\Test-Task\MyWpfApp\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\NODIRA\Test-Task\MyWpfApp\obj\Debug\net7.0-windows\MyWpfApp_MarkupCompile.cache
+C:\Users\NODIRA\Test-Task\MyWpfApp\obj\Debug\net7.0-windows\MyWpfApp.g.resources
+C:\Users\NODIRA\Test-Task\MyWpfApp\obj\Debug\net7.0-windows\MyWpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NODIRA\Test-Task\MyWpfApp\obj\Debug\net7.0-windows\MyWpfApp.AssemblyInfoInputs.cache
+C:\Users\NODIRA\Test-Task\MyWpfApp\obj\Debug\net7.0-windows\MyWpfApp.AssemblyInfo.cs
+C:\Users\NODIRA\Test-Task\MyWpfApp\obj\Debug\net7.0-windows\MyWpfApp.csproj.CoreCompileInputs.cache
